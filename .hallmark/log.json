@@ -1,0 +1,54 @@
+[
+ {
+  "shape": "feature-stack+catalogue",
+  "theme": "loom",
+  "axes": {
+   "genre": "editorial",
+   "job": "browse and buy",
+   "material": "product"
+  },
+  "hero": "product specimen on detail route",
+  "nav": "preserved SRS masthead",
+  "footer": "preserved footer",
+  "imagery": "replaceable packaging slots",
+  "photos": [],
+  "entry": "added collection browse route and dynamic product detail routes",
+  "fingerprint": "srs-chocolate-collection-browse-5b1c·4ed9c7a9·2026-11-03·r0",
+  "sections": [
+   "collection browse",
+   "product detail",
+   "ruled product specification"
+  ],
+  "signature": "ingredient weight cacao price facts",
+  "waived": [],
+  "prompt": "Can you make a different page for the product view where user click to the view show the product details with ingredient weight pricing, name, and also create a different collection page, user can browse there and find different different chocolates",
+  "date": "2026-11-03",
+  "mode": "build"
+ },
+ {
+  "shape": "catalogue",
+  "theme": "atelier",
+  "axes": {
+   "genre": "editorial",
+   "job": "buy",
+   "material": "product"
+  },
+  "hero": "two replaceable chocolate specimens",
+  "nav": "preserved masthead with order action",
+  "footer": "preserved footer",
+  "imagery": "marked product image placeholders",
+  "photos": [],
+  "entry": "redesigned collection surface",
+  "fingerprint": "luxury-chocolate-collection-catalogue-bce4·4ed9c7a9·2026-11-03·r0",
+  "sections": [
+   "collection statement",
+   "two-product catalogue",
+   "placeholder note"
+  ],
+  "signature": "two chocolate product specimens",
+  "waived": [],
+  "prompt": "I want to make a different collection page where i can show the chocolates, with images, and i want to show two products in show in the image, right now just use the place holder i will provide the image and also write details about the chocolates, pricing, name, weight",
+  "date": "2026-11-03",
+  "mode": "build"
+ }
+]
